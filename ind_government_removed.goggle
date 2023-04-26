@@ -1,8 +1,9 @@
 ! name: Indian Government Website Removal
 ! description: Removes Indian government funded/owned organizations websites
-! public: false
+! public: true
 ! author: Evangelion
 
+$discard,site=gov.in
 $discard,site=cfsindia.org
 $discard,site=rgipt.ac.in
 $discard,site=badmintonindia.org
@@ -136,7 +137,6 @@ $discard,site=sscnr.net.in
 $discard,site=tiss.edu
 $discard,site=merical.ac.in
 $discard,site=imsc.res.in
-$discard,site=gov.in
 $discard,site=hockeyindia.org
 $discard,site=iiswbm.edu
 $discard,site=hoclindia.com

@@ -1,6 +1,6 @@
 ! name: Indian Government Website Booster
 ! description: Boosts Indian government funded/owned organizations websites
-! public: false
+! public: true
 ! author: Evangelion
 
 $boost=4,site=gov.in
