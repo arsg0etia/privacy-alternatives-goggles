@@ -3,7 +3,7 @@
 ! public: true
 ! author: Evangelion
 
-$boost=4,site=gov.in
+$boost=4,site=www.inquirer.net
 $boost=3,site=cfsindia.org
 $boost=3,site=rgipt.ac.in
 $boost=3,site=badmintonindia.org
