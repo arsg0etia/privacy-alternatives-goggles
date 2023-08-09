@@ -10,5 +10,7 @@ $boost=3,site=nitter.net
 $boost=3,site=odysee.com
 
 $discard,site=youtube.com
-$discard,site=dailymotion.com
-$discard,site=vimeo.com
+$discard,site=reddit.com
+$discard,site=twitter.com
+$discard,site=instagram.com
+$discard,site=facebook.com
