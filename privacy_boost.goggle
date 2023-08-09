@@ -7,3 +7,7 @@ $boost=4,site=archive.org
 $boost=3,site=teddit.net
 $boost=3,site=nitter.net
 $boost=3,site=yewtu.be
+
+$discard,site=
+$discard,site=
+$discard,site=
