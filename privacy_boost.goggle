@@ -5,6 +5,8 @@
 
 $boost=4,site=archive.org
 $boost=4,site=yewtu.be
+$boost=3,site=lemmy.world
+$boost=3,site=kbin.social
 $boost=3,site=teddit.net
 $boost=3,site=nitter.net
 $boost=3,site=odysee.com
