@@ -7,7 +7,8 @@ $boost=4,site=archive.org
 $boost=3,site=teddit.net
 $boost=3,site=nitter.net
 $boost=3,site=yewtu.be
+$boost=3,site=odysee.com
 
-$discard,site=
-$discard,site=
-$discard,site=
+$discard,site=youtube.com
+$discard,site=dailymotion.com
+$discard,site=vimeo.com
