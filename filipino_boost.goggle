@@ -1,9 +1,9 @@
-! name: Filipino Sources Booster
-! description: Boosts Filipino centric websites
+! name: Privacy Alternatives Booster
+! description: Boosts Privacy Centric Alternaives
 ! public: true
 ! author: arsg0etia
 
-$boost=4,site=inquirer.net
-$boost=3,site=rappler.com
-$boost=3,site=gmanetwork.com
-$boost=3,site=news.abs-cbn.com
+$boost=4,site=archive.org
+$boost=3,site=teddit.net
+$boost=3,site=nitter.net
+$boost=3,site=yewtu.be
